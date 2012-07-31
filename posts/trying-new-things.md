@@ -2,7 +2,7 @@
 title:
 date: '2012-07-31'
 description:
-categories:
+categories: meta
 ---
 
 #### It's always important to try new things
