@@ -5,7 +5,7 @@ description:
 categories: meta
 ---
 
-#### It's always important to try new things
+It's always important to try new things
 
 So, I'm continually trying new "simple" blogging engines.  I did wordpress, tumblr, jekyll,
 all that noise.  They all suck and are too complicated for the "I have the attention span of
