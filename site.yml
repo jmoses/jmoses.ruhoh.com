@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Mental Noise
+tagline: Noise that's just mental
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jon Moses
+  email : jon@burningbush.us
+  github : jmoses
+  twitter : technicalmoses
+  feedburner : false #feedname
 
 navigation :
   - archive.html
